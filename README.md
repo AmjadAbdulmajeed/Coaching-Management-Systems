@@ -12,10 +12,10 @@ The project utilizes Sales Cloud to store comprehensive information about course
 
 ## This project includes the following topicst
 
-##Salesforce Admin
+## Salesforce Admin
   - Objects & Relationships
   - Sharing Rules, OWD & Roles
-###Salesforce Development
+### Salesforce Development
     - Apex Trigger
     - Apex Batch Apex
     - Future Method
