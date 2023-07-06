@@ -21,6 +21,16 @@ The project utilizes Sales Cloud to store comprehensive information about course
   - Future Method
   - Integration ( Both Apex REST & REST API )
 
+## Screenshots
+
+![3](https://github.com/AmjadAbdulmajeed/Saleforce-Coaching-Management-Project/assets/122358461/69c02b19-c011-403f-981d-2dc4710b5e7c)
+
+![2](https://github.com/AmjadAbdulmajeed/Saleforce-Coaching-Management-Project/assets/122358461/64e1712b-a7e4-4c77-9d7e-ebf1957b2974)
+
+![4](https://github.com/AmjadAbdulmajeed/Saleforce-Coaching-Management-Project/assets/122358461/f0386a97-f7dc-48a6-8730-2cd6abde6495)
+
+![5](https://github.com/AmjadAbdulmajeed/Saleforce-Coaching-Management-Project/assets/122358461/ee5391dd-0b1e-47c5-b6c8-7785bcf411a5)
+
 
 ## Read All About It
 
