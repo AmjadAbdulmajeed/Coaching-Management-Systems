@@ -16,11 +16,10 @@ The project utilizes Sales Cloud to store comprehensive information about course
   - Objects & Relationships
   - Sharing Rules, OWD & Roles
 ### Salesforce Development
-
-Apex Trigger
-Apex Batch Apex
-Future Method
-Integration ( Both Apex REST & REST API )
+  - Apex Trigger
+  - Apex Batch Apex
+  - Future Method
+  - Integration ( Both Apex REST & REST API )
 
 
 ## Read All About It
