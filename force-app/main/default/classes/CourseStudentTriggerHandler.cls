@@ -58,6 +58,7 @@ public class CourseStudentTriggerHandler {
 
             mail.setHtmlBody(emailBody);
             eamilList.add(mail);
+            //New branch
         }
     }
 }
